@@ -15,8 +15,12 @@ FUSIÓ DE LA BRANCA00
 git merge branca00
 
 Apartat 12
-PUSH
+PUSH BRANCA MAIN
 git push
+
+Apartat 14a
+PUSH BRANCA01
+git push --set-upstream origin branca01
 
 Pregunta 6
 Des de geany, actualitza el contingut del fitxer Prjava02.java. Pots veure l'última línia afegida?. Per què?
