@@ -1,0 +1,38 @@
+Apartat 1
+CREACIÓ I ACCÉS A UNA NOVA BRANCA
+git checkout -b branca00
+
+Apartat 5
+TORNAR A LA BRANCA MAIN
+git checkout main
+
+Apartat 7
+TORNAR A LA BRANCA00
+git checkout branca00
+
+Apartat 10b
+FUSIÓ DE LA BRANCA00
+git merge branca00
+
+Apartat 12
+PUSH
+git push
+
+Pregunta 6
+Des de geany, actualitza el contingut del fitxer Prjava02.java. Pots veure l'última línia afegida?. Per què?
+No es pot veure la línia afegida perquè el canvi només s'ha produït a la branca00, la branca main no ha registrat cap canvi.
+
+Pregunta 7
+Torna a la branca branca00. Des de geany, actualitza el contingut del fitxer Prjava02.java. Pots veure
+l'última línia afegida?. Per què?
+Es pot veure perquè el canvi s'ha realitzat en la branca00.
+
+Pregunta 12c
+Comprova que només s'ha actualitzat la branca main únicament. Per què?
+Per què la branca00 no existeix al dipòsit remot. Encara no ha estat creada.
+
+Pregunta 14c
+ A quants commits de distància (commit ahead) està de la branca main?
+ A 1 commit de distància
+
+ 
